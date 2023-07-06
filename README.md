@@ -34,3 +34,11 @@ https://pixelscan.net/
 - INVALID_UA = 'C15'
 - SAFE_BROWSER_PROTECTION = 'C16'
 - MEDIA_DEVICES = 'C17'
+
+## Test C17
+
+Media Device Fingerprinting
+
+Список медиакомпонентов (видеокарты, аудиокарты, вебкамеры etc.) и их id, подключенных к данному PC. Крашится скорее всего потому, что нужно запрашивать доступ у пользователя.
+
+## Test C4
