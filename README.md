@@ -11,6 +11,10 @@ https://pixelscan.net/
 
 # Task resolve
 
+## List of failed tests
+
+![](Screenshot_Chromium_tests_C4_C17_failed.png)
+
 ## List of tests
 
 - SCROLL_TO_TEXT_FRAGMENT = 'C1'
